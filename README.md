@@ -68,7 +68,7 @@ GestureGuard is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Credits
 
-GestureGuard was developed by [Your Name] and [Contributors]. Special thanks to [Acknowledgements].
+GestureGuard was developed by [Saad Khan]. Special thanks to [Nicholas Rennote].
 
 ---
 
